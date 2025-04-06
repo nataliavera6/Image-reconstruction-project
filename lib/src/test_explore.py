@@ -1,6 +1,6 @@
 # test_explore.py
 import unittest
-from explore import cross_river
+from lib.src.explore import cross_river
 
 # # Generated in part by genAI
 def create_test_raft(length, width):

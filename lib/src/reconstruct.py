@@ -1,4 +1,4 @@
-from image import Image
+from lib.src.image import Image
 import math
 
 # # Generated in part by genAI
