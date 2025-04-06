@@ -1,0 +1,20 @@
+
+in reconstruct.py:
+prompt: "find the bottom strip and then work your way up from there":
+generated functions:
+        - def find_bottom_strip(image_strips)
+        - def find_similar_above_strip(strip, image_strips)
+        - troubleshooting parts of main()
+
+chat conversation link:https://chatgpt.com/share/67af71f3-9658-800f-9c24-5cecb77ff4f5
+
+in test_explore.py:
+prompt: "make a new file with test cases for the size of the raft in the pack"
+generated functions:
+        - def test_valid_raft(self)
+        - def test_small_raft(self)
+        - def test_large_raft(self)
+        - def test_negative_dimensions(self)
+        - def test_zero_dimensions(self)
+
+chat conversation link: https://chatgpt.com/share/67afa2f9-4d68-800f-a297-4a7022290665
